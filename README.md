@@ -1,4 +1,5 @@
-# catppuccin-tridactyl with Hint Overlay
+# catppuccin-tridactyl
+## catppuccin themed hint overlay
 
 ## Install
 `:colourscheme --url https://raw.githubusercontent.com/DanielHatakeyama/catppuccin-tridactyl/main/catppuccin.css catppuccin`
