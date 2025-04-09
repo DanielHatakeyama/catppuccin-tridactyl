@@ -190,12 +190,12 @@
 
 /* Increase hint font size */
 .TridactylHint {
-    font-size: 2.5rem !important;
+    font-size: 4.5rem !important;
     font-weight: bold !important;
 }
 
 span.TridactylHint.TridactylHintUppercase,
 span.TridactylHint.TridactylHintINPUT {
-    font-size: 2.5rem !important;
+    font-size: 4.5rem !important;
     font-weight: bold !important;
 }
