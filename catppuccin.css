@@ -33,13 +33,13 @@
     --tridactyl-hintspan-font-family: var(--font);
 
     /* Hint character tags */
-    /*--tridactyl-hintspan-fg: var(--bg) !important;
+    --tridactyl-hintspan-fg: var(--bg) !important;
     --tridactyl-hintspan-bg: var(--green) !important;*/
 
     /* Element highlights */
     --tridactyl-hint-active-fg: var(--tridactyl-fg);
-    --tridactyl-hint-active-bg: #88ff00;
-    --tridactyl-hint-active-outline: 1px solid #cc0000;
+    --tridactyl-hint-active-bg: var(--bg);
+    --tridactyl-hint-active-outline: 1px solid var(--currentline);
 
     --tridactyl-hint-bg: rgba(255, 255, 0, 0.25);
     --tridactyl-hint-outline: 1px solid #8f5902;
