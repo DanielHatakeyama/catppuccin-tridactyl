@@ -41,7 +41,8 @@
     --tridactyl-hint-active-bg: var(--lavender);
     --tridactyl-hint-active-outline: 1px solid var(--pink);
 
-    --tridactyl-hint-bg: rgba(221, 182, 242, 0.1); /* Transparent mauve */
+    /*--tridactyl-hint-bg: rgba(221, 182, 242, 0.1); /* Transparent mauve */
+    --tridactyl-hint-bg: none;
     --tridactyl-hint-outline: 1px solid var(--mauve);
 }
 
