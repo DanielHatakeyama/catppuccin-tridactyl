@@ -74,7 +74,7 @@
 }
 
 #completions > div {
-    max-height: calc(20 * var(--option-height));
+    max-height: calc(25 * var(--option-height));
     min-height: calc(10 * var(--option-height));
 }
 
