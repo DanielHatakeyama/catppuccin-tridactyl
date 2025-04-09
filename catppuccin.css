@@ -41,7 +41,7 @@
     --tridactyl-hint-active-bg: var(--lavender);
     --tridactyl-hint-active-outline: 1px solid var(--pink);
 
-    --tridactyl-hint-bg: rgba(221, 182, 242, 0.15); /* Transparent mauve */
+    --tridactyl-hint-bg: rgba(221, 182, 242, 0.1); /* Transparent mauve */
     --tridactyl-hint-outline: 1px solid var(--mauve);
 }
 
@@ -189,6 +189,6 @@
 
 /* Increase hint font size */
 .TridactylHint {
-    font-size: 1.3rem !important;
+    font-size: 1.4rem !important;
     font-weight: bold !important;
 }
