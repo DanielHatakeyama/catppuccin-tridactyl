@@ -1,4 +1,4 @@
-# catppuccin-tridactyl
+# catppuccin-tridactyl with Hint Overlay
 
 ## Install
 `:colourscheme --url https://raw.githubusercontent.com/DanielHatakeyama/catppuccin-tridactyl/main/catppuccin.css catppuccin`
@@ -19,4 +19,5 @@ Change the font:
 `--font: "FiraCode Nerd Font Mono";` Change to `--font: "font-of-your-choice";`
 
 ## Credit
+Based on [catppuccin-tridactyl](https://github.com/lonepie/catppuccin-tridactyl)
 Based on [base16-tridactyl](https://github.com/bezmi/base16-tridactyl)
