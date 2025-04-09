@@ -140,7 +140,7 @@
 }
 
 #completions table tr td {
-  padding: .5rem 0;
+  padding: .2rem 0;
 }
 
 #completions .sectionHeader {
@@ -170,7 +170,7 @@
     border: unset !important;
     border: 1px var(--purple) solid !important;
     font-size: 12pt !important;
-    /*font-weight: 200 !important;*/
+    font-weight: 200 !important;
     padding: 0.8ex !important;
 }
 
