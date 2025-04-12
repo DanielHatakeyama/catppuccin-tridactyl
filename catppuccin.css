@@ -41,8 +41,8 @@
     --tridactyl-hint-active-bg: var(--lavender);
     --tridactyl-hint-active-outline: 1px solid var(--pink);
 
-    /*--tridactyl-hint-bg: rgba(221, 182, 242, 0.1); /* Transparent mauve */
-    --tridactyl-hint-bg: none;
+    --tridactyl-hint-bg: rgba(221, 182, 242, 0.1); /* Transparent mauve */
+    /*--tridactyl-hint-bg: none;*/
     --tridactyl-hint-outline: 1px solid var(--mauve);
 }
 
@@ -81,7 +81,7 @@
 /* COMPLETIONS */
 
 #completions {
-    --option-height: 1.4em;
+    --option-height: 1.3em;
     color: var(--tridactyl-fg);
     background: var(--tridactyl-bg);
     display: inline-block;
@@ -194,12 +194,12 @@
 
 /* Increase hint font size */
 .TridactylHint {
-    font-size: 1rem !important;
+    font-size: 1.2rem !important;
     font-weight: bold !important;
 }
 
 span.TridactylHint.TridactylHintUppercase,
 span.TridactylHint.TridactylHintINPUT {
-    font-size: 1rem !important;
+    font-size: 1.2rem !important;
     font-weight: bold !important;
 }
